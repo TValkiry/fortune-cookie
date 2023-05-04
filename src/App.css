@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    text-align: center; 
+  }
+  
+  button {
+    
+    display: inline-block; 
+    vertical-align: middle; 
+  }
